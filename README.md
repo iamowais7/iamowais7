@@ -4,15 +4,17 @@ I'm a passionate software developer currently pursuing my MCA. I have experience
 
 🔭 About Me
 
-👀 I’m interested in React.js, Next.js and AI
+👀 I’m interested in building innovative solutions with AI
 
 🌱 I’m currently learning Next.js and advanced JavaScript concepts
 
 💞️ I’m looking to collaborate on open-source projects and innovative AI applications
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iamosk/) 
+⚡ Fun fact: Fun fact: I enjoy solving real-world problems through code and learning new tech trends!
 
-⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons!
+🔗 Connect with Me
+
+📫  [LinkedIn](https://www.linkedin.com/in/iamosk/) | [ GitHub](https://github.com/iamowais7)
 
 🚀 Tech Stack
 
