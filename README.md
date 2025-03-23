@@ -26,12 +26,11 @@ Database: MongoDB, MySQL
 
 📌 Projects
 
-Banking Management System (Full-stack Salesforce project)
-
 AI Trip Planner (react.js project)
 
 AI Coaching Voice Agent (Next.js project in progress)
 
+Banking Management System (Full-stack Salesforce project)
 <!---
 iamowais7/iamowais7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
