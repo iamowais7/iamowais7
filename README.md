@@ -20,7 +20,7 @@ I'm a passionate software developer currently pursuing my MCA. I have experience
 
 Languages: JavaScript, Apex, SQL
 
-Frontend: React, Next.js, LWC
+Frontend: React, React Native, Next.js, LWC
 
 Backend: Node.js, Express.js, Salesforce Apex
 
