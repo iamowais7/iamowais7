@@ -1,39 +1,25 @@
-Hi, I'm OWAIS!
+Hi, I'm OWAIS! 👋
 
-I'm a passionate software developer currently pursuing my MCA. I have experience working with Salesforce, full-stack web development, and AI-related projects.
+I'm a passionate software developer currently pursuing my MCA. I have experience in Salesforce, full-stack web development, and AI-based projects.
 
-🔭 About Me
+## 🔭 About Me
+- 👀 Interested in building innovative AI-driven solutions  
+- 🌱 Currently learning Next.js and advanced JavaScript concepts  
+- 💞️ Looking to collaborate on open-source and AI applications  
+- ⚡ Fun fact: I enjoy solving real-world problems through code and exploring new tech trends  
 
-👀 I’m interested in building innovative solutions with AI
+## 🔗 Connect with Me
+- 📫 [LinkedIn](https://www.linkedin.com/in/iamosk/)  
+- 💻 [GitHub](https://github.com/iamowais7)  
+- 🌐 [Portfolio](https://owaisfolio.vercel.app/)  
 
-🌱 I’m currently learning Next.js and advanced JavaScript concepts
+## 🚀 Tech Stack
+**Languages:** JavaScript, Apex, SQL  
+**Frontend:** React, React Native, Next.js, LWC  
+**Backend:** Node.js, Express.js, Salesforce Apex  
+**Database:** MongoDB, MySQL  
 
-💞️ I’m looking to collaborate on open-source projects and innovative AI applications
-
-⚡ Fun fact: Fun fact: I enjoy solving real-world problems through code and learning new tech trends!
-
-🔗 Connect with Me
-
-📫  [LinkedIn](https://www.linkedin.com/in/iamosk/) | [ GitHub](https://github.com/iamowais7) | [ Owaisfolio] (https://owaisfolio.vercel.app/)
-
-🚀 Tech Stack
-
-Languages: JavaScript, Apex, SQL
-
-Frontend: React, React Native, Next.js, LWC
-
-Backend: Node.js, Express.js, Salesforce Apex
-
-Database: MongoDB, MySQL
-
-📌 Projects
-
-AI Trip Planner (react.js project)
-
-AI Coaching Voice Agent (Next.js project in progress)
-
-Banking Management System (Full-stack Salesforce project)
-<!---
-iamowais7/iamowais7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📌 Projects
+- **AI Trip Planner** (React.js)  
+- **AI Coaching Voice Agent** (Next.js – in progress)  
+- **Banking Management System** (Full-stack Salesforce project)
