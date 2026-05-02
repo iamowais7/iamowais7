@@ -14,7 +14,7 @@ I'm a passionate software developer currently pursuing my MCA. I have experience
 
 🔗 Connect with Me
 
-📫  [LinkedIn](https://www.linkedin.com/in/iamosk/) | [ GitHub](https://github.com/iamowais7)
+📫  [LinkedIn](https://www.linkedin.com/in/iamosk/) | [ GitHub](https://github.com/iamowais7) | [ Owaisfolio (https://owaisfolio.vercel.app/)]
 
 🚀 Tech Stack
 
